@@ -4,3 +4,5 @@
 
 layout: home
 ---
+## What We Do
+We build software that gives you a fresh start...
