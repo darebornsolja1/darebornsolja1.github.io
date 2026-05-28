@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Novus Refresh is a California-based software studio that designs simple, intuitive tools to help people and organizations improve. We believe everyone deserves a second chance and a clear path to renewal—whether that’s streamlining a broken workflow, learning a new skill, or transforming an entire team. With over a decade of healthcare experience behind us, we bring empathy, precision, and deep listening to every product we build.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+> **Our Mission:** *Simple tools for renewal, growth, and a fresh start—powered by years of healthcare experience and a passion for human-centered design.*
