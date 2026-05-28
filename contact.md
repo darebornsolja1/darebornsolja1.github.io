@@ -8,4 +8,4 @@ permalink: /contact/
 
 Email: [hello@novusrefresh.com](mailto:hello@novusrefresh.com)
 
-Based in California, serving businesses statewide.
+Based in Arcadia, California.
