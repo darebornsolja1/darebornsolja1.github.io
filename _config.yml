@@ -21,10 +21,9 @@
 title: Novus Refresh LLC
 email: hello@novusrefresh.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Novus Refresh LLC is a California-based software studio that crafts intuitive digital tools to help
-  people and organizations renew, rebuild, and reach their next level. We build applications that
-  breathe fresh life into outdated workflows, give second chances through accessible design, and
-  champion continuous improvement—one line of code at a time.
+  Based in California, we serve clients and users who are ready to refresh the way 
+  they work, learn, and connect. At Novus Refresh, innovation doesn’t mean 
+  complexity—it means making things better, one thoughtful feature at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.novusrefresh.com" # the base hostname & protocol for your site, e.g. http://example.com
 
