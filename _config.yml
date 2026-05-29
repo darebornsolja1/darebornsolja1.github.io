@@ -28,7 +28,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.novusrefresh.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
-  - index.md
   - about.md
   - contact.md
   - what-we-do.md
