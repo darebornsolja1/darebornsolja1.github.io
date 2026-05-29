@@ -24,9 +24,8 @@ title: Home
     
     <!-- Card 1 -->
     <div class="card">
-      <h3>Clinician Router</h3>
+      <h3>Home Health & Hospice Route Optimizer</h3>
       <p>Optimizing travel routes for home health professionals to maximize efficiency and patient care time.</p>
-      <a href="/what-we-do" class="card-link">Learn More &rarr;</a>
     </div>
 
     <!-- Card 2 -->
