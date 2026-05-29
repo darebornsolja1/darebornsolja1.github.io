@@ -687,6 +687,74 @@ table td {
   margin-bottom: 1.5rem;
 }
 
+/* ===== Typography & Spacing ===== */
+.content-section {
+  max-width: 800px;
+  margin: 4rem auto; /* Creates generous breathing room between sections */
+  padding: 0 1rem;
+}
+
+.content-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #333333;
+}
+
+.content-section p {
+  color: #555555; /* Softer text color for better readability */
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* ===== Minimalist Card Grid ===== */
+.card-grid {
+  display: grid;
+  /* Automatically stacks cards on mobile, side-by-side on desktop */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.card {
+  background: #fafafa; /* Subtle off-white */
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  padding: 2.5rem 2rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Subtle elevation effect on hover */
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+}
+
+.card h3 {
+  margin-top: 0;
+  font-size: 1.35rem;
+  color: #222222;
+  margin-bottom: 1rem;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: #666666;
+  margin-bottom: 2rem;
+}
+
+.card-link {
+  text-decoration: none;
+  color: #2a7ae2; /* Matches the default Minima blue */
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.card-link:hover {
+  text-decoration: underline;
+}
+
 /* ===== Button ===== */
 .btn {
   display: inline-block;
