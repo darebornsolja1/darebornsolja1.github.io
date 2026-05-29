@@ -6,7 +6,6 @@
   text-align: center;
   padding: 4rem 1rem;
   margin-bottom: 2rem;
-  /* Background image with fallback color */
   background-color: #f5f5f5;
   background-image: url('/assets/images/hero-bg.svg');
   background-repeat: no-repeat;
@@ -23,7 +22,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.65);  /* 65% white, now you can see the image */
+  background: rgba(255, 255, 255, 0.65);  /* 65% opacity, image peeks through */
   z-index: 1;
 }
 
