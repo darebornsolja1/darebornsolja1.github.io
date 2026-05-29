@@ -666,7 +666,7 @@ table td {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.65);
+  background: rgba(255, 255, 255, 0.3);
   z-index: 1;
 }
 
@@ -682,12 +682,20 @@ table td {
   font-size: 3rem;
   font-weight: 700;
   letter-spacing: -1px;
+  text-shadow: 0 0 15px rgba(255, 255, 255, 0.9);
 }
 
 .hero-subtitle {
   font-size: 1.2rem;
   color: #555;
   margin-bottom: 1.5rem;
+}
+
+/* Ensure the navigation menu always sits on top */
+.site-header {
+  position: relative;
+  z-index: 99; 
+  background-color: #fdfdfd; /* Ensures the menu background remains solid white */
 }
 
 /* ===== Typography & Spacing ===== */
