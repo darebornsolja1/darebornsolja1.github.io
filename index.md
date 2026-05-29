@@ -1,13 +1,11 @@
 ---
 layout: home
-title: Home
 ---
 
 <!-- Hero Section -->
 <div class="hero">
   <h1>Smart Software, Fresh Start</h1>
   <p class="hero-subtitle">We design intuitive tools that simplify work, boost productivity, and give teams a clean slate.</p>
-  <a href="/what-we-do" class="btn">See What We Do</a>
 </div>
 
 <!-- Main Content Area -->
