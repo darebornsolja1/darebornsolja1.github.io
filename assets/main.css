@@ -656,6 +656,11 @@ table td {
   margin-bottom: 2rem;
   background: url('/assets/images/hero-bg.png') center/cover no-repeat;
   overflow: hidden;
+  min-height: 60vh;            /* Full-height hero, adjust as needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Semi‑transparent overlay to keep text readable */
