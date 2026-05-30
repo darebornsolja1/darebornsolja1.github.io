@@ -654,7 +654,7 @@ table td {
   text-align: center;
   padding: 4rem 1rem;
   margin-bottom: 2rem;
-  background: url('/assets/images/hero-bg.svg') center/cover no-repeat;
+  background: url('/assets/images/hero-bg.png') center/cover no-repeat;
   overflow: hidden;
 }
 
